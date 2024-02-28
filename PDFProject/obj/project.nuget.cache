@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jsImlS+nrkED/y0fqUQFi0ggvST7lxcEK598yLdt2/PCIxusD2VbUvDh3+4G/+7KimEOdTL4AHerhCA3Nkvc5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EVREN\\Desktop\\PDFProject\\PDFProject\\PDFProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EVREN\\.nuget\\packages\\harfbuzzsharp\\7.3.0.1\\harfbuzzsharp.7.3.0.1.nupkg.sha512",
+    "C:\\Users\\EVREN\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0.1\\harfbuzzsharp.nativeassets.macos.7.3.0.1.nupkg.sha512",
+    "C:\\Users\\EVREN\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\7.3.0.1\\harfbuzzsharp.nativeassets.win32.7.3.0.1.nupkg.sha512",
+    "C:\\Users\\EVREN\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\EVREN\\.nuget\\packages\\questpdf\\2023.12.5\\questpdf.2023.12.5.nupkg.sha512",
+    "C:\\Users\\EVREN\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\EVREN\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.7\\skiasharp.harfbuzz.2.88.7.nupkg.sha512",
+    "C:\\Users\\EVREN\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\EVREN\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512"
+  ],
+  "logs": []
+}
